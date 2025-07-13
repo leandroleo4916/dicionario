@@ -1,0 +1,50 @@
+[
+ {
+    "id": 235,
+    "nome": "Zambeta",
+    "definicao": "Com pernas arqueadas.",
+    "exemplo": "Olha aquele zambeta passando, parece um laço!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 236,
+    "nome": "Zuretado",
+    "definicao": "Nervoso.",
+    "exemplo": "Ficou zuretado quando perdeu a chave do carro.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 237,
+    "nome": "Zarolho",
+    "definicao": "Estrábico; vesgo.",
+    "exemplo": "O zarolho tava olhando pra mim ou pro poste?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 238,
+    "nome": "Zoada",
+    "definicao": "Barulho; confusão.",
+    "exemplo": "Que zoada da moléstia é essa aí fora?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 239,
+    "nome": "Zona",
+    "definicao": "Bagunça; confusão.",
+    "exemplo": "Esse quarto tá uma zona da gota!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 240,
+    "nome": "Zumbido",
+    "definicao": "Ruído forte e estridente.",
+    "exemplo": "Tô ouvindo um zumbido estranho nesse ventilador.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
