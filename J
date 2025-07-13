@@ -1,0 +1,34 @@
+[
+  {
+    "id": 137,
+    "nome": "Jabá",
+    "definicao": "Carne de charque.",
+    "exemplo": "Feijão com jabá é de lascar de bom!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 138,
+    "nome": "Jagunço",
+    "definicao": "Segurança particular armado; guarda-costas; capanga.",
+    "exemplo": "O coronel andava com dois jagunços atrás dele.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 139,
+    "nome": "Jante",
+    "definicao": "Roda do carro.",
+    "exemplo": "Bati no meio-fio e entortei a jante do carro.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 140,
+    "nome": "Jerimum",
+    "definicao": "Abóbora.",
+    "exemplo": "Fiz um creme de jerimum que ficou um espetáculo.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
