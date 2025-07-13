@@ -1,0 +1,42 @@
+[
+  {
+    "id": 164,
+    "nome": "Oitão",
+    "definicao": "Os lados livres de um imóvel.",
+    "exemplo": "\"Ele arrodeou pelo oitão\" pra não passar pela frente.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 165,
+    "nome": "Ondonde",
+    "definicao": "Onde.",
+    "exemplo": "Ondonde tu tava que não viu o ônibus passar?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 1650,
+    "nome": "Ópaí ó",
+    "definicao": "É uma expressão popular da Bahia, especialmente de Salvador, que significa "Olha pra isso, olha!"",
+    "exemplo": ""Ópaí, ó, que confusão é essa?"",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 166,
+    "nome": "Oxente!",
+    "definicao": "Expressão de surpresa; espanto.",
+    "exemplo": "Oxente! Já são cinco horas e tu ainda nem saiu?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 167,
+    "nome": "Oxi",
+    "definicao": "Contração de 'oxente!'. Possivelmente, vem de 'olha só minha gente!'.",
+    "exemplo": "Oxi, tu tá ficando doido é?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
