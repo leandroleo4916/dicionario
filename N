@@ -1,0 +1,26 @@
+[
+  {
+    "id": 161,
+    "nome": "Não empurra um prego num mamão maduro",
+    "definicao": "Expressão em referência a quem não faz nada; exagero de preguiçoso.",
+    "exemplo": "Esse menino não empurra um prego num mamão maduro, só vive deitado!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 162,
+    "nome": "Num fresque não",
+    "definicao": "Expressão que solicita o fim da brincadeira ou o fim da manha.",
+    "exemplo": "Num fresque não, que hoje eu tô sem paciência!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 163,
+    "nome": "Nó cego",
+    "definicao": "Problema de difícil solução; sujeito enrolado; situação complicada.",
+    "exemplo": "Essa conta da prefeitura tá um nó cego pra resolver.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
