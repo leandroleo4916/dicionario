@@ -1,0 +1,42 @@
+[
+  {
+    "id": 204,
+    "nome": "Sarrar",
+    "definicao": "Dar um amasso; namorar.",
+    "exemplo": "Vi tu sarrando com ela no cantinho do salão!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 205,
+    "nome": "Sofrente",
+    "definicao": "Pessoa sofredora.",
+    "exemplo": "Esse menino é tão sofrente que chora por qualquer coisa.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 206,
+    "nome": "Sustância",
+    "definicao": "Que tem substância; energia.",
+    "exemplo": "O caldo é bom, tem sustância e sustenta bem.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 207,
+    "nome": "Semvergonhagem",
+    "definicao": "Semvergonhice.",
+    "exemplo": "Isso que tu fez foi uma semvergonhagem sem tamanho.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 208,
+    "nome": "Sobejos",
+    "definicao": "Restos; sobras.",
+    "exemplo": "Comi só os sobejos do almoço e ainda fiquei satisfeito.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
