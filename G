@@ -1,1 +1,99 @@
 
+[
+  {
+    "id": 119,
+    "nome": "Galalau",
+    "definicao": "Homem de estatura elevada, capaz de tirar coco sem vara.",
+    "exemplo": "Olha o galalau ali tirando coco com a mão!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 120,
+    "nome": "Gastura",
+    "definicao": "Mãos frias, ardor estomacal, comichão, prurido.",
+    "exemplo": "Só de ver aquela cena me deu uma gastura!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 121,
+    "nome": "Gazear",
+    "definicao": "Faltar à aula ou ao trabalho; vadiar.",
+    "exemplo": "Gazeei aula pra ir jogar bola no campinho.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 122,
+    "nome": "Gibão",
+    "definicao": "Casaco de couro; usado por vaqueiros.",
+    "exemplo": "O vaqueiro se vestiu com o gibão pra entrar na mata.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 123,
+    "nome": "Gota-serena",
+    "definicao": "Interjeição de irritação, usada por quem está zangado.",
+    "exemplo": "Tá cá gota-serena!" Esse computador não quer funcionar!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 124,
+    "nome": "Gasguita",
+    "definicao": "Voz esganiçada.",
+    "exemplo": "A cantora era tão gasguita que doía no ouvido.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 125,
+    "nome": "Guisado",
+    "definicao": "Forma de cozinhar utilizando o tempero; refogado.",
+    "exemplo": "Mainha fez um guisado de carne que ficou uma delícia.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 126,
+    "nome": "Gabiru",
+    "definicao": "Rato grande.",
+    "exemplo": "Vi um gabiru do tamanho de um gato na rua de trás!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 127,
+    "nome": "Galego",
+    "definicao": "Pessoa loira ou alourada.",
+    "exemplo": "E aí, galego! Bora tomar uma?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 128,
+    "nome": "Gelo baiano",
+    "definicao": "Blocos brancos de concreto usado nas vias públicas.",
+    "exemplo": "Cuidado pra não bater o carro no gelo baiano!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 129,
+    "nome": "Girador",
+    "definicao": "No trânsito, local onde os veículos fazem a volta, rotatória.",
+    "exemplo": "Segue reto até o girador e pega a segunda saída.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 130,
+    "nome": "Graxa",
+    "definicao": "Molho de comida.",
+    "exemplo": "Esse frango tem que ter muita graxa pra ficar bom!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
