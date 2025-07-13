@@ -1,0 +1,74 @@
+[
+  {
+    "id": 195,
+    "nome": "Remoso",
+    "definicao": "Comida mais forte, que deve ser evitada quando a imunidade estiver baixa.",
+    "exemplo": "Bode não é remoso, mas camarão é. Não coma agora, não.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 196,
+    "nome": "Rapariga",
+    "definicao": "Em Portugal, é feminino de rapaz. No Nordeste, é profissional do sexo; utilizado em xingamentos.",
+    "exemplo": "Filá de uma rapariga! Tu quebrou meu copo novo!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 197,
+    "nome": "Remela",
+    "definicao": "Secreção ocular.",
+    "exemplo": "Acordei com os olhos cheios de remela.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 198,
+    "nome": "Rachão",
+    "definicao": "Jogo informal de futebol; pelada.",
+    "exemplo": "Sábado tem rachão com a galera no campinho.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 199,
+    "nome": "Rebolar no mato",
+    "definicao": "Jogar fora; atirar longe; avoar.",
+    "exemplo": "Se quebrar de novo, vou rebolar no mato!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 200,
+    "nome": "Raçudo",
+    "definicao": "Corajoso.",
+    "exemplo": "Esse menino é raçudo demais, não desiste fácil.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 201,
+    "nome": "Ronxa",
+    "definicao": "Hematoma.",
+    "exemplo": "Caiu da bicicleta e ficou com a perna cheia de ronxa.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 202,
+    "nome": "Relar",
+    "definicao": "Arranhar.",
+    "exemplo": "Cuidado pra não relar o carro na parede.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 203,
+    "nome": "Rela-buxo",
+    "definicao": "Festa onde se pode dançar; forró.",
+    "exemplo": "Hoje vai ter um rela-buxo lá na casa de Zé.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
