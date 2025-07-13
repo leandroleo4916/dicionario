@@ -83,7 +83,7 @@
     "id": 43,
     "nome": "Bacurau",
     "definicao": "Nome de ave com hábitos noturnos, também serve para se referir a serviços no horário da noite.",
-    "exemplo": "\"Perdi meu ônibus. Agora só o bacurau.\"",
+    "exemplo": "Perdi meu ônibus. Agora só o bacurau.",
     "curtidaSim": 0,
     "curtidaNao": 0
   },
