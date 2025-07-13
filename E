@@ -1,0 +1,130 @@
+[
+  {
+    "id": 89,
+    "nome": "Encarcar",
+    "definicao": "Apertar com pressão.",
+    "exemplo": "O pitoco da campainha está com defeito. Encarque!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 90,
+    "nome": "Emburacar",
+    "definicao": "Entrar à força; ingressar sem pedir licença.",
+    "exemplo": "O cabra emburacou na festa sem nem ser chamado.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 91,
+    "nome": "Emburrado",
+    "definicao": "Cara fechada; amuado; invocado; com raiva; carrancudo.",
+    "exemplo": "Ele tá emburrado desde cedo, nem bom dia deu.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 92,
+    "nome": "Empretecer",
+    "definicao": "Escurecer; ficar preto.",
+    "exemplo": "O céu empreteceu de repente, vai cair um toró!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 93,
+    "nome": "Enxerido",
+    "definicao": "Pessoa metida; alguém que tira liberdades; safado, namorador.",
+    "exemplo": "Deixe de ser enxerido, cabra!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 94,
+    "nome": "Escarafunchar",
+    "definicao": "Ciscar; procurar; revolver em busca de alguma coisa.",
+    "exemplo": "Ficou escarafunchando a gaveta até achar o dinheiro.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 95,
+    "nome": "Esse menino",
+    "definicao": "Vocativo utilizado em circunstâncias na qual não se conhece o nome de quem se chama.",
+    "exemplo": "Ô, esse menino, onde é a feira da sulanca?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 96,
+    "nome": "Estrebuchar",
+    "definicao": "Estertor; agito de quem pode vir a morrer; morrer.",
+    "exemplo": "O peixe ficou estrebuchando fora d'água.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 97,
+    "nome": "Empazinado",
+    "definicao": "Cheio; mais do que satisfeito.",
+    "exemplo": "Comi tanto feijão com farinha que tô empazinado.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 98,
+    "nome": "Empaxado",
+    "definicao": "Má digestão; ocorre com quem se empazinou de comida.",
+    "exemplo": "Tô empaxado com esse almoço de vó!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 99,
+    "nome": "Empiriquitar",
+    "definicao": "Arrumar-se em demasiado; comprar muitas roupas.",
+    "exemplo": "Foi pro shopping e se empiriquitou toda de novo.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 100,
+    "nome": "Engabelar",
+    "definicao": "Enganar, iludir.",
+    "exemplo": "Num vem me engabelar com essas conversa mole não!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 101,
+    "nome": "Engomar",
+    "definicao": "Passar à roupa com goma; passar à roupa com cuidado.",
+    "exemplo": "Mainha engomou minha camisa pra festa da igreja.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 102,
+    "nome": "Estribado",
+    "definicao": "Com recursos; com mufunfa, cheio da grana.",
+    "exemplo": "Aquele ali é estribado, vive viajando pro exterior.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 103,
+    "nome": "E eu seio?",
+    "definicao": "Expressão utilizada por quem não sabe.",
+    "exemplo": "E eu seio nada disso, rapá?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 104,
+    "nome": "Espinhela caída",
+    "definicao": "Diz-se de pessoa desanimada; desgostosa; deprimida.",
+    "exemplo": "Desde que terminou o namoro tá com a espinhela caída.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
