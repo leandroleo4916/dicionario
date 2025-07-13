@@ -1,0 +1,106 @@
+[
+  {
+    "id": 105,
+    "nome": "Fiofó",
+    "definicao": "Referência ao cóccix ou ao ânus.",
+    "exemplo": "O menino caiu sentado e ralou o fiofó no chão.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 106,
+    "nome": "Folote",
+    "definicao": "O mesmo que folgado; afolosado; frouxo; largo.",
+    "exemplo": "Esse short tá tão folote que parece que vai cair.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 107,
+    "nome": "Forró",
+    "definicao": "Vem do inglês 'for all'; para todos.",
+    "exemplo": "Hoje tem forró lá no clube, vai ser arretado demais!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 108,
+    "nome": "Froxo",
+    "definicao": "Contração raivosa para frouxo; medroso; covarde.",
+    "exemplo": "Vai nada, aquele cabra é froxo que só!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 109,
+    "nome": "Fuxico",
+    "definicao": "Fofoca; intriga; frutica; mexerico.",
+    "exemplo": "Esse povo só vive de fuxico e falação da vida alheia.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 110,
+    "nome": "Fulero",
+    "definicao": "Fuleiro; sem valor; reles; insignificante.",
+    "exemplo": "Esse radinho fulero nem pega direito.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 112,
+    "nome": "Foi mal",
+    "definicao": "Pedido de desculpas; perdão.",
+    "exemplo": "Eita, derrubei tua água. Foi mal, visse?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 113,
+    "nome": "Fila duma égua",
+    "definicao": "Xingamento com referência caluniosa à genitora. Pode-se usar sem ofensas, como interjeição para a mula que empacou.",
+    "exemplo": "Fila duma égua! Essa bicicleta arriou de novo!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 114,
+    "nome": "Fiteiro",
+    "definicao": "Comércio informal de calçada; ponto de venda de confeito.",
+    "exemplo": "Passei no fiteiro e comprei um confeito e um refri.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 115,
+    "nome": "Flexero",
+    "definicao": "Mergulho de cabeça.",
+    "exemplo": "Ele subiu na pedra e deu logo um flexero na lagoa.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 116,
+    "nome": "Fubento",
+    "definicao": "Desbotado; gasto; muito usado.",
+    "exemplo": "Esse lençol tá fubento demais, parece pano de chão.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 117,
+    "nome": "Fazer o balão",
+    "definicao": "Dar a volta com o carro em um girador; arrodear.",
+    "exemplo": "Vai até a frente e faz o balão pra voltar.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 118,
+    "nome": "Filar",
+    "definicao": "Colar no colégio; olhar a resposta da prova dos outros.",
+    "exemplo": "Na hora da prova ele ficou tentando filar de mim.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
