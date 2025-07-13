@@ -1,1 +1,258 @@
-A primeira letra dicionário
+[
+  {
+    "id": 1,
+    "nome": "Alesado",
+    "definicao": "Substantivo masculino, dado a leseiras, bobo, abestalhado.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 2,
+    "nome": "Abilobado",
+    "definicao": "Qualidade daquele que perdeu o juízo, às vezes momentaneamente. Também pode ser em caráter permanente.",
+    "exemplo": "\"Abilolou, foi?\", \"Agora abilolou de vez\"",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 3,
+    "nome": "Alfinin",
+    "definicao": "Iguaria nordestina; doce fino feito da rapadura.",
+    "exemplo": "Diabéticos devem evitar olhar.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 4,
+    "nome": "Amancebado",
+    "definicao": "Situação irregular ou provisória em um relacionamento amoroso. O mesmo que amigado.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 5,
+    "nome": "Amarrado",
+    "definicao": "Qualidade do pão duro; mesquinho; avarento; pirangueiro.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 6,
+    "nome": "Alpercata",
+    "definicao": "Sandália de couro.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 7,
+    "nome": "Aperriar",
+    "definicao": "O mesmo que amolar, perturbar, desviar a atenção.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 8,
+    "nome": "Aperriado",
+    "definicao": "Com pressa, avexado.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 9,
+    "nome": "Arengar",
+    "definicao": "Tirar a atenção, perturbar.",
+    "exemplo": "\"Mainha! Ó ele me arengando!\"",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 10,
+    "nome": "Arretado",
+    "definicao": "Diz-se de algo muito bom, mas também pode ser usado para qualificar alguém bravo.",
+    "exemplo": "\"Hoje eu estou arretado\"",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 11,
+    "nome": "Afolosado",
+    "definicao": "Algo que perdeu a forma, ficou folgado ou frouxo.",
+    "exemplo": "\"A dentadura afolosou\"",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 12,
+    "nome": "Arreda",
+    "definicao": "Interjeição de desobstrução. O mesmo que \"sai da frente\", afaste-se, xô.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 13,
+    "nome": "Arrodear",
+    "definicao": "O mesmo que dar a volta, fazer o rodeio.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 14,
+    "nome": "Arrochado",
+    "definicao": "Pessoa de palavra, que faz o que promete; também algo apertado.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 15,
+    "nome": "Avalie",
+    "definicao": "Imagine; muito usado como figura de linguagem.",
+    "exemplo": "\"Agora, avalie o tamanho da encrenca\"",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 16,
+    "nome": "Avexar",
+    "definicao": "Apressar, aperriar.",
+    "exemplo": "\"Não se avexe não, que nada é para já\"",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 17,
+    "nome": "Avoar",
+    "definicao": "Jogar fora, atirar ao léu, arremessar.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 18,
+    "nome": "Acoitou",
+    "definicao": "Ofereceu ajuda.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 19,
+    "nome": "Assunta bem",
+    "definicao": "Preste muita atenção.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 20,
+    "nome": "Abiscoitado",
+    "definicao": "Tolo, bobo, ingênuo.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 21,
+    "nome": "Abusar",
+    "definicao": "Perturbar além da conta; passar dos limites.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 22,
+    "nome": "Acochado",
+    "definicao": "Apertado; bem junto.",
+    "exemplo": "\"Vou deixar os parafusos bem acochados\"",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 23,
+    "nome": "A como é? ou Acumé?",
+    "definicao": "O mesmo que \"quanto é que custa?\". Utilize nos mercados livres no Nordeste. O preço muda.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 24,
+    "nome": "Alcatifa",
+    "definicao": "Carpete.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 25,
+    "nome": "Altear",
+    "definicao": "Aumentar o volume.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 26,
+    "nome": "A pulso",
+    "definicao": "À força, na marra.",
+    "exemplo": "No Recife, existe uma comunidade que se chama Entra Apulso.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 27,
+    "nome": "Arrasta pé",
+    "definicao": "Dança animada; forró; baião.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 28,
+    "nome": "Arribar",
+    "definicao": "Sair; ir embora.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 29,
+    "nome": "Aruá",
+    "definicao": "Caramujo de jardim; pessoa lenta.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 30,
+    "nome": "Avacalhar",
+    "definicao": "Esculhambar; ironizar.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 31,
+    "nome": "Avia",
+    "definicao": "Apressa, agiliza.",
+    "exemplo": "\"Avia logo, esse menino!\"",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 32,
+    "nome": "Avuado",
+    "definicao": "Destraído; pouco orientado.",
+    "exemplo": null,
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
