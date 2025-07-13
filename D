@@ -1,0 +1,90 @@
+[
+  {
+    "id": 78,
+    "nome": "Dar o grau",
+    "definicao": "Caprichar.",
+    "exemplo": "Hoje eu vou dar o grau nessa moto antes de sair pro rolê.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 79,
+    "nome": "Divera",
+    "definicao": "Verdadeiro, de verdade.",
+    "exemplo": "Tu vai casar divera ou não?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 80,
+    "nome": "Doidera",
+    "definicao": "Acesso de loucura, endoidamento.",
+    "exemplo": "Foi uma doidera danada aquele show ontem!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 81,
+    "nome": "De hoje a oito",
+    "definicao": "Neste mesmo dia, na próxima semana; de hoje a oito dias (inclusive o dia de hoje).",
+    "exemplo": "A gente se vê de hoje a oito, na casa de painho.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 82,
+    "nome": "Derna",
+    "definicao": "Desde.",
+    "exemplo": "Tô esperando esse ônibus derna de meio-dia.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 83,
+    "nome": "De rosca",
+    "definicao": "Algo difícil de ser realizado, demorado.",
+    "exemplo": "\"Esse suco está de rosca, a máquina tá enguiçada.\"",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 84,
+    "nome": "Desenxavido",
+    "definicao": "Desinibido.",
+    "exemplo": "O menino é tão desenxavido que chega conversa com todo mundo sem nem conhecer.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 85,
+    "nome": "Desopilar",
+    "definicao": "Descontrair.",
+    "exemplo": "Vamos ali no boteco pra desopilar a mente um pouco.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 86,
+    "nome": "Desmilinguido",
+    "definicao": "Magro; sem vigor.",
+    "exemplo": "Ele tá tão desmilinguido que parece que vai cair com o vento.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 87,
+    "nome": "Disgramado",
+    "definicao": "Atrevido ou sujeito desgraçado.",
+    "exemplo": "Esse disgramado comeu o último pedaço do bolo e nem perguntou!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 88,
+    "nome": "Do tempo do ronca",
+    "definicao": "Muito antigo; fora de moda; cafona; ultrapassado.",
+    "exemplo": "Esse celular teu é do tempo do ronca, visse?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
