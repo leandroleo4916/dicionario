@@ -1,0 +1,178 @@
+[
+  {
+    "id": 33,
+    "nome": "Baitola",
+    "definicao": "Termo pejorativo para homossexual masculino.",
+    "exemplo": "Num fale assim não, rapaz. Respeite o povo, deixe de chamar os outros de baitola.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 34,
+    "nome": "Batoré",
+    "definicao": "Indivíduo de baixa estatura, o mesmo que tamborete.",
+    "exemplo": "Ô batoré, cadê tu que sumiu do bar ontem?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 35,
+    "nome": "Balaio",
+    "definicao": "Um cesto grande.",
+    "exemplo": "Mainha foi pra feira e trouxe um balaio cheio de verdura.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 36,
+    "nome": "Badoque",
+    "definicao": "Estilingue; atiradeira.",
+    "exemplo": "Menino, larga esse badoque antes que tu quebre o vidro da vizinha!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 37,
+    "nome": "Babão",
+    "definicao": "Bajulador; puxa-saco.",
+    "exemplo": "Esse aí só vive atrás do chefe, um babão mesmo.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 38,
+    "nome": "Bafafá",
+    "definicao": "Confusão; bagunça; balbúrdia.",
+    "exemplo": "Teve um bafafá danado na porta do forró ontem.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 39,
+    "nome": "Bexiguento",
+    "definicao": "Pessoa sem qualidades; desgramado; gangrenado.",
+    "exemplo": "Sai daqui, bexiguento, deixa de aperrear!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 40,
+    "nome": "Bixiga-lixa",
+    "definicao": "Qualidade do maloqueiro; agitador; arruaceiro.",
+    "exemplo": "Ô bixiga-lixa, tu não para quieto um segundo!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 41,
+    "nome": "Bizonho",
+    "definicao": "Bizarro.",
+    "exemplo": "Esse filme foi bizonho demais, num entendi foi nada!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 42,
+    "nome": "Brenha",
+    "definicao": "Lugar distante; de difícil acesso.",
+    "exemplo": "O sítio do vô fica lá na brenha, longe que só a peste.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 43,
+    "nome": "Bacurau",
+    "definicao": "Nome de ave com hábitos noturnos, também serve para se referir a serviços no horário da noite.",
+    "exemplo": "\"Perdi meu ônibus. Agora só o bacurau.\"",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 44,
+    "nome": "Bestar",
+    "definicao": "Andar sem destino; abestadamente.",
+    "exemplo": "Passei o dia bestando pelo centro, nem vi a hora passar.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 45,
+    "nome": "Bunda-canastra",
+    "definicao": "Cambalhota.",
+    "exemplo": "O menino caiu na lama e deu foi uma bunda-canastra danada.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 46,
+    "nome": "Boiar",
+    "definicao": "Sobrar.",
+    "exemplo": "Sobrou tanta comida que deu pra boiar até o almoço de amanhã.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 47,
+    "nome": "Bulir",
+    "definicao": "Mexer com alguém, de preferência com alguém que estava quieto.",
+    "exemplo": "Deixa tua irmã quieta, menino! Vive bulindo com ela.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 48,
+    "nome": "Butija",
+    "definicao": "Tesouro escondido.",
+    "exemplo": "Dizem que tem uma butija enterrada ali naquela mata antiga.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 49,
+    "nome": "Bigu",
+    "definicao": "Carona.",
+    "exemplo": "Me dá um bigu até ali na praça, homi!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 50,
+    "nome": "Boga",
+    "definicao": "Ânus.",
+    "exemplo": "O menino caiu de bunda no chão e machucou a boga.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 51,
+    "nome": "Botar galha",
+    "definicao": "Ser infiel em um relacionamento amoroso.",
+    "exemplo": "Ele ficou sabendo que a mulher botou galha nele e foi um escândalo só.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 52,
+    "nome": "Brebote",
+    "definicao": "Comida de baixo valor nutritivo, normalmente atrativa aos gulosos.",
+    "exemplo": "Num aguento mais comer esse brebote que vendem na esquina.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 53,
+    "nome": "Bregueço",
+    "definicao": "Objeto sem valor; desprezível.",
+    "exemplo": "Joga esse bregueço fora, isso nem funciona mais.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 54,
+    "nome": "Buliçoso",
+    "definicao": "Aquele que mexe em tudo.",
+    "exemplo": "Esse menino é buliçoso demais, já derrubou três copos hoje!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
