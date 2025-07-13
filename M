@@ -1,0 +1,138 @@
+[
+  {
+    "id": 144,
+    "nome": "Malamanhado",
+    "definicao": "Sem vestimenta adequada; desarrumado; mal vestido.",
+    "exemplo": "Ele chegou malamanhado, parecia que tinha dormido na rua.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 145,
+    "nome": "Mangar",
+    "definicao": "Caçoar; rir dos outros.",
+    "exemplo": "Não mangue de mim, não.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 146,
+    "nome": "Má-querença",
+    "definicao": "Sem vontade ou com má vontade; sem desejo algum.",
+    "exemplo": "Ele foi na força do ódio, só má-querença mesmo.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 147,
+    "nome": "Marretar",
+    "definicao": "O mesmo que roubar.",
+    "exemplo": "Alguém marretou a bolsa da moça no ônibus.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 148,
+    "nome": "Maruim ou Muruim",
+    "definicao": "Mosquitinho.",
+    "exemplo": "Esses maruim tão comendo a gente vivo!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 149,
+    "nome": "Massa",
+    "definicao": "Coisa boa; de primeira.",
+    "exemplo": "Esse som novo de Zé Vaqueiro tá massa!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 150,
+    "nome": "Mainha",
+    "definicao": "Mamãezinha.",
+    "exemplo": "Mainha, cadê meu caderno?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 151,
+    "nome": "Miolo de pote",
+    "definicao": "Coisa sem importância.",
+    "exemplo": "Para de falar miolo de pote e me ajuda aqui!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 152,
+    "nome": "Munganga",
+    "definicao": "Repertório de movimentos; caretas; trejeitos.",
+    "exemplo": "\"Jim Carrey é muito mungangeiro.\"",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 153,
+    "nome": "Muriçoca",
+    "definicao": "Inseto semelhante ao pernilongo.",
+    "exemplo": "Passei o dia me coçando das picadas dessas muriçocas!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 154,
+    "nome": "Maldar",
+    "definicao": "Interpretar com maldade; utilizar o pior sentido.",
+    "exemplo": "Ela disse brincando e o povo já começou a maldar.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 155,
+    "nome": "Meiota",
+    "definicao": "Meia garrafa de cachaça.",
+    "exemplo": "Desceu uma meiota com dois copos só.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 156,
+    "nome": "Mundiça",
+    "definicao": "Povão; gente simples; plebe rude.",
+    "exemplo": "Aquela festa tava cheia de mundiça, mas foi boa.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 157,
+    "nome": "Mamulengo",
+    "definicao": "Fantoche; marionete; boneco de pano.",
+    "exemplo": "O teatro de mamulengo é tradição no interior.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 158,
+    "nome": "Miaeiro",
+    "definicao": "Cofrinho para moedas.",
+    "exemplo": "Botei as moedinhas no miaeiro pra economizar pro lanche.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 159,
+    "nome": "Macaxeira",
+    "definicao": "Variedade comestível de mandioca.",
+    "exemplo": "Café da manhã aqui é com macaxeira e queijo coalho.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 160,
+    "nome": "Matuto",
+    "definicao": "Caipira; pessoa da lida rural.",
+    "exemplo": "Seu João é matuto dos bons, mas entende de tudo da roça.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
