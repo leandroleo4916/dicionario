@@ -1,0 +1,26 @@
+[
+  {
+    "id": 192,
+    "nome": "Quenga",
+    "definicao": "Profissional do sexo na terceira idade ou com serviços a preços promocionais.",
+    "exemplo": "Diz que ali naquela esquina só tem quenga velha vendendo amor barato.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 193,
+    "nome": "Quietei",
+    "definicao": "Fiquei quieto; acalmei.",
+    "exemplo": "Depois daquela briga, quietei e fui dormir.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 194,
+    "nome": "Que nem",
+    "definicao": "A igual a; tal qual.",
+    "exemplo": "Ele come que nem um boi.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
