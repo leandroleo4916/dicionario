@@ -1,0 +1,186 @@
+[
+  {
+    "id": 55,
+    "nome": "Caceteiro",
+    "definicao": "Adjetivo para aquele que gosta de brigar; jogador que faz faltas.",
+    "exemplo": "Esse zagueiro é um caceteiro, só chega no carrinho!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 56,
+    "nome": "Cambito",
+    "definicao": "Perna fina.",
+    "exemplo": "Ô menino de cambito, tu vai voar com esse vento!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 57,
+    "nome": "Cipuada",
+    "definicao": "Pancada forte.",
+    "exemplo": "Levou uma cipuada na cabeça que até viu estrela.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 58,
+    "nome": "Cabra",
+    "definicao": "Referência genérica a uma pessoa, em geral do sexo masculino.",
+    "exemplo": "Cabra bom é aquele que ajuda a mãe sem reclamar.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 59,
+    "nome": "Cão chupando manga",
+    "definicao": "Diz-se de pessoa corajosa, destemida.",
+    "exemplo": "Rapaz, esse cabra é o cão chupando manga mesmo!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 60,
+    "nome": "Catota",
+    "definicao": "Secreção nasal; meleca.",
+    "exemplo": "Menino, para de tirar catota do nariz em público!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 61,
+    "nome": "Caixa-prego",
+    "definicao": "Referência a lugar distante, mais próximo do que as brenhas.",
+    "exemplo": "Fui buscar a encomenda lá na caixa-prego.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 62,
+    "nome": "Chapa",
+    "definicao": "Peça feita por protético ou radiografia do pulmão.",
+    "exemplo": "O doutor mandou tirar uma chapa do pulmão pra ver direitinho.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 63,
+    "nome": "Chapéu de touro",
+    "definicao": "Diz-se da pessoa que mantém relacionamento com infiel.",
+    "exemplo": "Nem sabe que tá usando chapéu de touro faz tempo...",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 64,
+    "nome": "Correr frouxo",
+    "definicao": "Diz-se de algo que se tem em abundância.",
+    "exemplo": "Dinheiro tá correndo frouxo é só pros políticos!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 65,
+    "nome": "Confeito",
+    "definicao": "Bala (de comer, não o projétil).",
+    "exemplo": "Vó sempre tinha um potinho cheio de confeito na sala.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 66,
+    "nome": "Cotoco",
+    "definicao": "Um pedaço. Pode ser referência a um órgão do corpo amputado.",
+    "exemplo": "\"Perdeu parte do braço e ficou com um cotoco\".",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 67,
+    "nome": "Catraia",
+    "definicao": "Mulher feia ao extremo.",
+    "exemplo": "Oxente, aquela ali parece uma catraia saindo da furna!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 68,
+    "nome": "Cabrita",
+    "definicao": "Menina ou menina-moça.",
+    "exemplo": "Aquela cabrita já tá moça feita!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 69,
+    "nome": "Caixa-dos-peito",
+    "definicao": "Caixa toráxica.",
+    "exemplo": "Levou um soco bem na caixa-dos-peito!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 70,
+    "nome": "Cangalha",
+    "definicao": "Pessoa com as pernas arqueadas.",
+    "exemplo": "A bicha anda toda cangalha, parecendo cavalo de carga.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 71,
+    "nome": "Carão",
+    "definicao": "Repreensão; bronca.",
+    "exemplo": "Cheguei tarde em casa e levei um carão de painho.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 72,
+    "nome": "Caritó",
+    "definicao": "Diz-se de mulher que não conseguiu casar.",
+    "exemplo": "\"Ela ficou no caritó\".",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 73,
+    "nome": "Catombo",
+    "definicao": "Se for na cabeça é um galo, mas pode ser usado em qualquer parte do corpo ou superfície; calombo.",
+    "exemplo": "Bateu a testa na quina da porta e ficou com um catombo feio.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 74,
+    "nome": "Cocorote",
+    "definicao": "Cascudo.",
+    "exemplo": "Fica bulindo que tu leva é um cocorote!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 75,
+    "nome": "Conxambrança",
+    "definicao": "Acordo entre duas ou mais pessoas, com objetivo maldoso.",
+    "exemplo": "Esse contrato aí tem conxambrança, tem coisa errada!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 76,
+    "nome": "Corta-jaca",
+    "definicao": "Intermediário de namorados.",
+    "exemplo": "Fulano virou corta-jaca, entregando as cartinhas de amor pros dois.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 77,
+    "nome": "Cavalo-do-cão",
+    "definicao": "Pessoa que se propõe a fazer tudo; pessoa com planos de abraçar o mundo; também diz de quem conta vantagem.",
+    "exemplo": "Ele quer abrir três empresas, estudar medicina e ser influencer... é um cavalo-do-cão!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
