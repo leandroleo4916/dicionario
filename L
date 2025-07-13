@@ -1,0 +1,34 @@
+[
+ {
+    "id": 141,
+    "nome": "Laranja-cravo",
+    "definicao": "Mexerica ou bergamota.",
+    "exemplo": "Trouxe umas laranja-cravo lá do sítio, quer uma?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+ {
+    "id": 1410,
+    "nome": "Ligeiro",
+    "definicao": "Algo ou alguém com velocidade acelerada; veloz, célere.",
+    "exemplo": "Fulano passou aqui ligeiro cá peste",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 142,
+    "nome": "Liso",
+    "definicao": "Sem dinheiro.",
+    "exemplo": "Tô liso, só posso sair mês que vem.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 143,
+    "nome": "Lambança",
+    "definicao": "Arruaça; bagunça.",
+    "exemplo": "Os meninos fizeram uma lambança danada com tinta.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
