@@ -1,0 +1,50 @@
+[
+   {
+    "id": 131,
+    "nome": "Inhaca",
+    "definicao": "Cheiro forte; catinga de suor.",
+    "exemplo": "Sai desse quarto que tá uma inhaca insuportável!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 132,
+    "nome": "Invocado",
+    "definicao": "Pessoa com raiva; emburrado; cismado.",
+    "exemplo": "Ele tá invocado porque perdeu o jogo.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 133,
+    "nome": "Imburacar",
+    "definicao": "Entrar sem pedir permissão, sem ser convidado.",
+    "exemplo": "O menino imburacou na casa do vizinho atrás da bola.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 134,
+    "nome": "Incangado",
+    "definicao": "Em cima; junto; inseparável.",
+    "exemplo": "Desde que casaram vivem incangados pra todo lado.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 135,
+    "nome": "Ingembrado",
+    "definicao": "Torto; com a espinhela caída.",
+    "exemplo": "O banco ficou todo ingembrado depois do tombo.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 136,
+    "nome": "Içá",
+    "definicao": "Formiga com asas, que aparece após a chuva. Come-se frita na manteiga.",
+    "exemplo": "Hoje é dia de içá! Já botei manteiga na panela.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
