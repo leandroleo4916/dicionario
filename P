@@ -1,0 +1,194 @@
+[
+  {
+    "id": 168,
+    "nome": "Pisa",
+    "definicao": "Surra.",
+    "exemplo": "Se continuar nessa, vai levar uma pisa bem dada!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 169,
+    "nome": "Pantim",
+    "definicao": "Manha; resmungo.",
+    "exemplo": "Não sei se está doente ou é só pantim.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 170,
+    "nome": "Pitoco",
+    "definicao": "Um pequeno botão; algo pequeno.",
+    "exemplo": "O pitoco do ventilador quebrou e agora não liga.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 171,
+    "nome": "Peba",
+    "definicao": "Algo de má qualidade, que é ruim.",
+    "exemplo": "Esse celular é muito peba, não presta pra nada.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 172,
+    "nome": "Painho",
+    "definicao": "Papaizinho.",
+    "exemplo": "Painho, me empresta dinheiro pra comprar um lanche?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 173,
+    "nome": "Pedir penico",
+    "definicao": "Desistir.",
+    "exemplo": "Correu tanto que pediu penico no final da corrida.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 174,
+    "nome": "Pipoco",
+    "definicao": "Estouro; barulho grande.",
+    "exemplo": "Ouvi um pipoco e pensei que fosse tiro!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 175,
+    "nome": "Pixototinho",
+    "definicao": "Algo muito miúdo.",
+    "exemplo": "O cachorro é tão pixototinho que cabe numa bolsa.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 176,
+    "nome": "Possa ser",
+    "definicao": "Provavelmente.",
+    "exemplo": "Possa ser que chova hoje mais tarde.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 177,
+    "nome": "Presepeiro",
+    "definicao": "Espalhafatoso; escandaloso.",
+    "exemplo": "Tu é muito presepeiro, tudo contigo vira uma novela.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 178,
+    "nome": "Pai d'égua",
+    "definicao": "Muito legal; bacana; porreta.",
+    "exemplo": "Aquele show foi pai d'égua demais!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 179,
+    "nome": "Papel de enrolar prego",
+    "definicao": "Diz-se de pessoa grosseira. Pode-se dizer também lixa.",
+    "exemplo": "Fulano é tão bruto que parece papel de enrolar prego.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 180,
+    "nome": "Pé de pau",
+    "definicao": "Referência genérica para uma árvore.",
+    "exemplo": "\"Aquele pé de pau ali, ó, é bom pra descansar na sombra.\"",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 181,
+    "nome": "Pelejar",
+    "definicao": "Tentar até a exaustão.",
+    "exemplo": "Pelejei tanto pra arrumar emprego que até cansei.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 182,
+    "nome": "Penso",
+    "definicao": "Não é o verbo, é algo pendente; torto; troncho.",
+    "exemplo": "O portão ficou penso depois da batida.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 183,
+    "nome": "Pitéu",
+    "definicao": "Elogio à mulher jovem e bonita.",
+    "exemplo": "Aquela moça é um verdadeiro pitéu!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 184,
+    "nome": "Possa ser que sim, possa ser que não",
+    "definicao": "Algo sem certeza; talvez.",
+    "exemplo": "Possa ser que sim, possa ser que não. Só esperando pra ver.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 185,
+    "nome": "Patuscada",
+    "definicao": "Molecagem.",
+    "exemplo": "Aquela turma só vive de patuscada e brincadeira.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 186,
+    "nome": "Paia",
+    "definicao": "Algo de pouca qualidade ou mulher feia.",
+    "exemplo": "Aquele filme é muito paia, nem terminei de ver.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 187,
+    "nome": "Peguento",
+    "definicao": "Suado; suarento.",
+    "exemplo": "Voltei da rua todo peguento, esse calor tá demais.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 188,
+    "nome": "Peitica",
+    "definicao": "Pessoa insistente; renitente.",
+    "exemplo": "Esse menino é uma peitica, não para de pedir doce.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 189,
+    "nome": "Perronha",
+    "definicao": "Sujeito que joga mal o futebol.",
+    "exemplo": "Tira esse perronha do time, só faz raiva!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 190,
+    "nome": "Pixaim",
+    "definicao": "Cabelo crespo; enrolado.",
+    "exemplo": "Ela alisou o pixaim e ficou diferente demais.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 191,
+    "nome": "Pirangueiro",
+    "definicao": "Pão duro; amarrado; muquirana.",
+    "exemplo": "\"Era tão pirangueiro que guardava um escorpião no bolso\".",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
