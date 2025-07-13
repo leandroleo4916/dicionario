@@ -1,0 +1,42 @@
+[
+  {
+    "id": 230,
+    "nome": "Xi",
+    "definicao": "Referência de espanto, contração quase muda de ôxe.",
+    "exemplo": "Xi... lá vem confusão!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 231,
+    "nome": "Xexeiro",
+    "definicao": "Caloteiro; deve e não paga.",
+    "exemplo": "Fulano é xexeiro, pegou fiado e sumiu.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 232,
+    "nome": "Xexo",
+    "definicao": "Seixo; pedaço de pedra lisa; também referência para trambique; enganação.",
+    "exemplo": "Esse celular que ele vendeu é um xexo danado.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 233,
+    "nome": "Xibiu",
+    "definicao": "Órgão genital feminino.",
+    "exemplo": "Levou uma topada que caiu de bunda com o xibiu no chão.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 234,
+    "nome": "Xoxo",
+    "definicao": "Pequeno; franzino.",
+    "exemplo": "O menino nasceu meio xoxo, mas agora tá forte.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
