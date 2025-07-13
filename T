@@ -1,0 +1,114 @@
+[
+  {
+    "id": 209,
+    "nome": "Tamborete",
+    "definicao": "Pequeno banco; pode ser referência jocosa a pessoa de baixa estatura.",
+    "exemplo": "Batoré é mais baixo que um tamborete quebrado.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 210,
+    "nome": "Trancelim",
+    "definicao": "Pequeno cordão de ouro ou prata, adorno para o pescoço.",
+    "exemplo": "Mainha ganhou um trancelim de painho no aniversário.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 211,
+    "nome": "Troncho",
+    "definicao": "Pendente, penso, escangalhado.",
+    "exemplo": "Essa estante tá toda troncha, vai cair já já.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 212,
+    "nome": "Triscar",
+    "definicao": "Tocar; roçar de leve.",
+    "exemplo": "Não trisca em mim que eu tô suado!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 213,
+    "nome": "Trupicão",
+    "definicao": "Topada.",
+    "exemplo": "Dei um trupicão naquela pedra e quase caio.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 214,
+    "nome": "Tá com a bexiga lixa",
+    "definicao": "Interjeição, diz-se de que está com tudo.",
+    "exemplo": "Eita que hoje tu tá com a bexiga lixa, viu!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 215,
+    "nome": "Tá com a bubônica",
+    "definicao": "Interjeição semelhante a 'tá com a bexiga', só que mais forte.",
+    "exemplo": "Menino, tu tá com a bubônica hoje, danado!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 216,
+    "nome": "Tá com a moléstia",
+    "definicao": "Interjeição semelhante a 'tá com a bubônica', mas mais intensa.",
+    "exemplo": "Oxente, tu tá com a moléstia mesmo, viu?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 217,
+    "nome": "Tabacudo",
+    "definicao": "Abestalhado; abobado, abilolado.",
+    "exemplo": "Deixa de ser tabacudo, homem!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 218,
+    "nome": "Tampa",
+    "definicao": "Sujeito bom em algo.",
+    "exemplo": "Aquele menino é tampa na bola, joga demais.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 219,
+    "nome": "Tampa de crush",
+    "definicao": "Diz do cara que é 'muito tampa', pessoa rara.",
+    "exemplo": "Esse aí é tampa de crush, viu? Raro de encontrar.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 220,
+    "nome": "Torar",
+    "definicao": "Partir; quebrar.",
+    "exemplo": "Vai torar o pau aí mesmo? Cuidado!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 221,
+    "nome": "Torar um aço",
+    "definicao": "Sentir medo intenso; passar por situação de aperto.",
+    "exemplo": "Torou um aço quando viu a polícia passando.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 222,
+    "nome": "Traquino",
+    "definicao": "Menino agitado; bagunceiro.",
+    "exemplo": "Esse menino é tão traquino que não para um minuto quieto.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
