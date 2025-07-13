@@ -1,0 +1,58 @@
+[
+  {
+    "id": 223,
+    "nome": "Varapau",
+    "definicao": "Homem alto e magro.",
+    "exemplo": "Aquele varapau ali joga vôlei demais!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 224,
+    "nome": "Vexado",
+    "definicao": "Apressado.",
+    "exemplo": "Tava tão vexado que saiu com a camisa do avesso.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 225,
+    "nome": "Visse",
+    "definicao": "Interjeição de reforço; funciona como 'viu', 'compreendeu'.",
+    "exemplo": "Tô falando sério, visse?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 226,
+    "nome": "Vixe",
+    "definicao": "Exclamação de surpresa ou espanto, nova leitura de 'Virgem Maria Santíssima'.",
+    "exemplo": "Vixe, olha o tamanho da cobra!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 227,
+    "nome": "Vôte",
+    "definicao": "Exclamação de espanto.",
+    "exemplo": "Vôte! Que bicho feio da gota!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 228,
+    "nome": "Vou chegando",
+    "definicao": "Vou embora; fui.",
+    "exemplo": "Já é tarde, vou chegando antes que a chuva venha.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 229,
+    "nome": "Virado no mói de coentro",
+    "definicao": "Estar com tudo em cima, não dever nada a ninguém.",
+    "exemplo": "Esse cabra hoje tá virado no mói de coentro, se achando o tal.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
