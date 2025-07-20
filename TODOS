@@ -1,0 +1,1930 @@
+[
+  {
+    "id": 1,
+    "nome": "Alesado",
+    "definicao": "Substantivo masculino, dado a leseiras, bobo, abestalhado.",
+    "exemplo": "Parece que fulano é meio alesado!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 2,
+    "nome": "Abilobado",
+    "definicao": "Qualidade daquele que perdeu o juízo, às vezes momentaneamente. Também pode ser em caráter permanente.",
+    "exemplo": "Abilolou, foi?", "Agora abilolou de vez"
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 3,
+    "nome": "Alfinin",
+    "definicao": "Iguaria nordestina; doce fino feito da rapadura.",
+    "exemplo": "Diabéticos devem evitar olhar.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 4,
+    "nome": "Amancebado",
+    "definicao": "Situação irregular ou provisória em um relacionamento amoroso. O mesmo que amigado.",
+    "exemplo": "Fulano é amancebado com Sicrano",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 5,
+    "nome": "Amarrado",
+    "definicao": "Qualidade do pão duro; mesquinho; avarento; pirangueiro.",
+    "exemplo": "Eu não vai compra isso, ele é muito do amarrado!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 6,
+    "nome": "Alpercata",
+    "definicao": "Sandália de couro.",
+    "exemplo": "Vai calçar tuas Alpercata menino!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 7,
+    "nome": "Aperriar",
+    "definicao": "O mesmo que amolar, perturbar, desviar a atenção.",
+    "exemplo": "Deixe de me aperriar, mais é cada uma!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 8,
+    "nome": "Aperriado",
+    "definicao": "Aborrecido, chateado, incomodado, ou angustiado.",
+    "exemplo": "Acordei aperriado hoje",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 9,
+    "nome": "Arengar",
+    "definicao": "Tirar a atenção, perturbar.",
+    "exemplo": "Oh Mainha! Oia pra ele arengando comigo!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 10,
+    "nome": "Arretado",
+    "definicao": "Diz-se de algo muito bom, mas também pode ser usado para qualificar alguém bravo.",
+    "exemplo": "Hoje eu estou arretado / Esse forró tá arretado de bom",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 11,
+    "nome": "Afolosado",
+    "definicao": "Algo que perdeu a forma, ficou folgado ou frouxo.",
+    "exemplo": "A dentadura afolosou",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 12,
+    "nome": "Arreda",
+    "definicao": "Interjeição de desobstrução. O mesmo que "sai da frente", afaste-se, xô.",
+    "exemplo": "Arreda o pé daqui que fulano tá arretado contigo!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 13,
+    "nome": "Arrodear",
+    "definicao": "O mesmo que dar a volta, fazer o rodeio.",
+    "exemplo": "Ela ficou arrodeando a praça!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 14,
+    "nome": "Arrochado",
+    "definicao": "Pessoa de palavra, que faz o que promete; também algo apertado.",
+    "exemplo": "Ela é uma pessoa arrochada / Essa calça tá arrochada demais",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 15,
+    "nome": "Avalie",
+    "definicao": "Imagine; muito usado como figura de linguagem.",
+    "exemplo": "Agora, avalie o tamanho da encrenca",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 16,
+    "nome": "Avexar",
+    "definicao": "Apressar, aperriar.",
+    "exemplo": "Não se avexe não, que nada é para já",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 17,
+    "nome": "Avoar",
+    "definicao": "Jogar fora, atirar ao léu, arremessar.",
+    "exemplo": "Ela avuou a alpercata dele na rua",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 18,
+    "nome": "Acoitou",
+    "definicao": "Ofereceu ajuda ou pode ser acobertar alguém.",
+    "exemplo": "Ela sempre acoita com as safadezas dele",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 19,
+    "nome": "Assunta bem",
+    "definicao": "Preste muita atenção.",
+    "exemplo": "Assunta bem o negócio",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 20,
+    "nome": "Abiscoitado",
+    "definicao": "Tolo, bobo, ingênuo.",
+    "exemplo": "Ele é meio abiscoitado nesses assuntos",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 21,
+    "nome": "Abusar",
+    "definicao": "Perturbar além da conta; passar dos limites.",
+    "exemplo": "Deixe de abusar fulano, ele vai ficar aperriado",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 22,
+    "nome": "Acochado",
+    "definicao": "Apertado; bem junto.",
+    "exemplo": "Vou deixar os parafusos bem acochados",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 23,
+    "nome": "Acumé ou Acumaé",
+    "definicao": "O mesmo que "quanto é que custa?". Utilize nos mercados livres no Nordeste.",
+    "exemplo": "Acumaé essa manga esse menino?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 24,
+    "nome": "Alcatifa",
+    "definicao": "Carpete grande com desenhos e cores variadas.",
+    "exemplo": "Fui comprar um Alcatifa, tava muito caro",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 25,
+    "nome": "Altear",
+    "definicao": "Aumentar o volume.",
+    "exemplo": "Porque você alteou o som?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 26,
+    "nome": "A pulso ou Apulso",
+    "definicao": "À força, na marra.",
+    "exemplo": "Eu fiz ele entrar apulso em casa",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 27,
+    "nome": "Arrasta pé",
+    "definicao": "Dança animada; forró; baião.",
+    "exemplo": "Vem, tu vai gostar desse arrasta pé",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 28,
+    "nome": "Arribar",
+    "definicao": "Levantar algo, erguer ou ficar de pé",
+    "exemplo": "Me ajuda a arribar essa mesa",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 29,
+    "nome": "Aruá",
+    "definicao": "Caramujo de jardim; pessoa lenta.",
+    "exemplo": "Fulano parece um aruá de tão lento.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 30,
+    "nome": "Avacalhar",
+    "definicao": "Esculhambar; ironizar, fazer algo de forma desleixada",
+    "exemplo": "Ele avacalhou com sicrano",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 31,
+    "nome": "Avia",
+    "definicao": "Apressa, agiliza.",
+    "exemplo": "Avia logo, esse menino!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 32,
+    "nome": "Avuado",
+    "definicao": "Destraído; pouco orientado.",
+    "exemplo": "Beltrano é meio avuado das ídeias",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+{
+    "id": 33,
+    "nome": "Baitola",
+    "definicao": "Termo pejorativo para homossexual masculino.",
+    "exemplo": "Num fale assim não, rapaz. Respeite o povo, deixe de chamar os outros de baitola.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 34,
+    "nome": "Batoré",
+    "definicao": "Indivíduo de baixa estatura, o mesmo que tamborete.",
+    "exemplo": "Ô batoré, cadê tu que sumiu do bar ontem?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 35,
+    "nome": "Balaio",
+    "definicao": "Um cesto grande.",
+    "exemplo": "Mainha foi pra feira e trouxe um balaio cheio de verdura.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 36,
+    "nome": "Badoque",
+    "definicao": "Estilingue; atiradeira.",
+    "exemplo": "Menino, larga esse badoque antes que tu quebre o vidro da vizinha!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 37,
+    "nome": "Babão",
+    "definicao": "Bajulador; puxa-saco.",
+    "exemplo": "Esse aí só vive atrás do chefe, um babão mesmo.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 38,
+    "nome": "Bafafá",
+    "definicao": "Confusão; bagunça; balbúrdia.",
+    "exemplo": "Teve um bafafá danado na porta do forró ontem.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 39,
+    "nome": "Bexiguento",
+    "definicao": "Pessoa sem qualidades; desgramado; gangrenado.",
+    "exemplo": "Sai daqui, bexiguento, deixa de aperrear!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 40,
+    "nome": "Bixiga-lixa",
+    "definicao": "Qualidade do maloqueiro; agitador; arruaceiro.",
+    "exemplo": "Ô bixiga-lixa, tu não para quieto um segundo!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 41,
+    "nome": "Bizonho",
+    "definicao": "Bizarro.",
+    "exemplo": "Esse filme foi bizonho demais, num entendi foi nada!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 42,
+    "nome": "Brenha",
+    "definicao": "Lugar distante; de difícil acesso.",
+    "exemplo": "O sítio do vô fica lá na brenha, longe que só a peste.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 43,
+    "nome": "Bacurau",
+    "definicao": "Nome de ave com hábitos noturnos, também serve para se referir a serviços no horário da noite.",
+    "exemplo": "Perdi meu ônibus. Agora só o bacurau.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 44,
+    "nome": "Bestar",
+    "definicao": "Andar sem destino; abestadamente.",
+    "exemplo": "Passei o dia bestando pelo centro, nem vi a hora passar.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 45,
+    "nome": "Bunda-canastra",
+    "definicao": "Cambalhota.",
+    "exemplo": "O menino caiu na lama e deu foi uma bunda-canastra danada.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 46,
+    "nome": "Boiar",
+    "definicao": "Sobrar.",
+    "exemplo": "Sobrou tanta comida que deu pra boiar até o almoço de amanhã.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 47,
+    "nome": "Bulir",
+    "definicao": "Mexer com alguém, de preferência com alguém que estava quieto.",
+    "exemplo": "Deixa tua irmã quieta, menino! Vive bulindo com ela.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 48,
+    "nome": "Butija",
+    "definicao": "Tesouro escondido.",
+    "exemplo": "Dizem que tem uma butija enterrada ali naquela mata antiga.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 49,
+    "nome": "Bigu",
+    "definicao": "Carona.",
+    "exemplo": "Me dá um bigu até ali na praça, homi!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 50,
+    "nome": "Boga",
+    "definicao": "Ânus.",
+    "exemplo": "O menino caiu de bunda no chão e machucou a boga.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 51,
+    "nome": "Botar galha",
+    "definicao": "Ser infiel em um relacionamento amoroso.",
+    "exemplo": "Ele ficou sabendo que a mulher botou galha nele e foi um escândalo só.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 52,
+    "nome": "Brebote",
+    "definicao": "Comida de baixo valor nutritivo, normalmente atrativa aos gulosos.",
+    "exemplo": "Num aguento mais comer esse brebote que vendem na esquina.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 53,
+    "nome": "Bregueço",
+    "definicao": "Objeto sem valor; desprezível.",
+    "exemplo": "Joga esse bregueço fora, isso nem funciona mais.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 54,
+    "nome": "Buliçoso",
+    "definicao": "Aquele que mexe em tudo.",
+    "exemplo": "Esse menino é buliçoso demais, já derrubou três copos hoje!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+{
+    "id": 55,
+    "nome": "Caceteiro",
+    "definicao": "Adjetivo para aquele que gosta de brigar; jogador que faz faltas.",
+    "exemplo": "Esse zagueiro é um caceteiro, só chega no carrinho!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 56,
+    "nome": "Cambito",
+    "definicao": "Perna fina.",
+    "exemplo": "Ô menino de cambito, tu vai voar com esse vento!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 57,
+    "nome": "Cipuada",
+    "definicao": "Pancada forte.",
+    "exemplo": "Levou uma cipuada na cabeça que até viu estrela.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 58,
+    "nome": "Cabra",
+    "definicao": "Referência genérica a uma pessoa, em geral do sexo masculino.",
+    "exemplo": "Cabra bom é aquele que ajuda a mãe sem reclamar.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 59,
+    "nome": "Cão chupando manga",
+    "definicao": "Diz-se de pessoa corajosa, destemida.",
+    "exemplo": "Rapaz, esse cabra é o cão chupando manga mesmo!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 60,
+    "nome": "Catota",
+    "definicao": "Secreção nasal; meleca.",
+    "exemplo": "Menino, para de tirar catota do nariz em público!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 61,
+    "nome": "Caixa-prego",
+    "definicao": "Referência a lugar distante, mais próximo do que as brenhas.",
+    "exemplo": "Fui buscar a encomenda lá na caixa-prego.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 62,
+    "nome": "Chapa",
+    "definicao": "Peça feita por protético ou radiografia do pulmão.",
+    "exemplo": "O doutor mandou tirar uma chapa do pulmão pra ver direitinho.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 63,
+    "nome": "Chapéu de touro",
+    "definicao": "Diz-se da pessoa que mantém relacionamento com infiel.",
+    "exemplo": "Nem sabe que tá usando chapéu de touro faz tempo...",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 64,
+    "nome": "Correr frouxo",
+    "definicao": "Diz-se de algo que se tem em abundância.",
+    "exemplo": "Dinheiro tá correndo frouxo é só pros políticos!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 65,
+    "nome": "Confeito",
+    "definicao": "Bala (de comer, não o projétil).",
+    "exemplo": "Vó sempre tinha um potinho cheio de confeito na sala.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 66,
+    "nome": "Cotoco",
+    "definicao": "Um pedaço. Pode ser referência a um órgão do corpo amputado.",
+    "exemplo": "\"Perdeu parte do braço e ficou com um cotoco\".",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 67,
+    "nome": "Catraia",
+    "definicao": "Mulher feia ao extremo.",
+    "exemplo": "Oxente, aquela ali parece uma catraia saindo da furna!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 68,
+    "nome": "Cabrita",
+    "definicao": "Menina ou menina-moça.",
+    "exemplo": "Aquela cabrita já tá moça feita!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 69,
+    "nome": "Caixa-dos-peito",
+    "definicao": "Caixa toráxica.",
+    "exemplo": "Levou um soco bem na caixa-dos-peito!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 70,
+    "nome": "Cangalha",
+    "definicao": "Pessoa com as pernas arqueadas.",
+    "exemplo": "A bicha anda toda cangalha, parecendo cavalo de carga.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 71,
+    "nome": "Carão",
+    "definicao": "Repreensão; bronca.",
+    "exemplo": "Cheguei tarde em casa e levei um carão de painho.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 72,
+    "nome": "Caritó",
+    "definicao": "Diz-se de mulher que não conseguiu casar.",
+    "exemplo": "\"Ela ficou no caritó\".",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 73,
+    "nome": "Catombo",
+    "definicao": "Se for na cabeça é um galo, mas pode ser usado em qualquer parte do corpo ou superfície; calombo.",
+    "exemplo": "Bateu a testa na quina da porta e ficou com um catombo feio.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 74,
+    "nome": "Cocorote",
+    "definicao": "Cascudo.",
+    "exemplo": "Fica bulindo que tu leva é um cocorote!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 75,
+    "nome": "Conxambrança",
+    "definicao": "Acordo entre duas ou mais pessoas, com objetivo maldoso.",
+    "exemplo": "Esse contrato aí tem conxambrança, tem coisa errada!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 76,
+    "nome": "Corta-jaca",
+    "definicao": "Intermediário de namorados.",
+    "exemplo": "Fulano virou corta-jaca, entregando as cartinhas de amor pros dois.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 77,
+    "nome": "Cavalo-do-cão",
+    "definicao": "Pessoa que se propõe a fazer tudo; pessoa com planos de abraçar o mundo; também diz de quem conta vantagem.",
+    "exemplo": "Ele quer abrir três empresas, estudar medicina e ser influencer... é um cavalo-do-cão!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+{
+    "id": 78,
+    "nome": "Dar o grau",
+    "definicao": "Caprichar.",
+    "exemplo": "Hoje eu vou dar o grau nessa moto antes de sair pro rolê.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 79,
+    "nome": "Divera",
+    "definicao": "Verdadeiro, de verdade.",
+    "exemplo": "Tu vai casar divera ou não?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 80,
+    "nome": "Doidera",
+    "definicao": "Acesso de loucura, endoidamento.",
+    "exemplo": "Foi uma doidera danada aquele show ontem!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 81,
+    "nome": "De hoje a oito",
+    "definicao": "Neste mesmo dia, na próxima semana; de hoje a oito dias (inclusive o dia de hoje).",
+    "exemplo": "A gente se vê de hoje a oito, na casa de painho.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 82,
+    "nome": "Derna",
+    "definicao": "Desde.",
+    "exemplo": "Tô esperando esse ônibus derna de meio-dia.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 83,
+    "nome": "De rosca",
+    "definicao": "Algo difícil de ser realizado, demorado.",
+    "exemplo": "\"Esse suco está de rosca, a máquina tá enguiçada.\"",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 84,
+    "nome": "Desenxavido",
+    "definicao": "Desinibido.",
+    "exemplo": "O menino é tão desenxavido que chega conversa com todo mundo sem nem conhecer.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 85,
+    "nome": "Desopilar",
+    "definicao": "Descontrair.",
+    "exemplo": "Vamos ali no boteco pra desopilar a mente um pouco.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 86,
+    "nome": "Desmilinguido",
+    "definicao": "Magro; sem vigor.",
+    "exemplo": "Ele tá tão desmilinguido que parece que vai cair com o vento.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 87,
+    "nome": "Disgramado",
+    "definicao": "Atrevido ou sujeito desgraçado.",
+    "exemplo": "Esse disgramado comeu o último pedaço do bolo e nem perguntou!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 88,
+    "nome": "Do tempo do ronca",
+    "definicao": "Muito antigo; fora de moda; cafona; ultrapassado.",
+    "exemplo": "Esse celular teu é do tempo do ronca, visse?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+{
+    "id": 89,
+    "nome": "Encarcar",
+    "definicao": "Apertar com pressão.",
+    "exemplo": "O pitoco da campainha está com defeito. Encarque!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 90,
+    "nome": "Emburacar",
+    "definicao": "Entrar à força; ingressar sem pedir licença.",
+    "exemplo": "O cabra emburacou na festa sem nem ser chamado.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 91,
+    "nome": "Emburrado",
+    "definicao": "Cara fechada; amuado; invocado; com raiva; carrancudo.",
+    "exemplo": "Ele tá emburrado desde cedo, nem bom dia deu.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 92,
+    "nome": "Empretecer",
+    "definicao": "Escurecer; ficar preto.",
+    "exemplo": "O céu empreteceu de repente, vai cair um toró!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 93,
+    "nome": "Enxerido",
+    "definicao": "Pessoa metida; alguém que tira liberdades; safado, namorador.",
+    "exemplo": "Deixe de ser enxerido, cabra!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 94,
+    "nome": "Escarafunchar",
+    "definicao": "Ciscar; procurar; revolver em busca de alguma coisa.",
+    "exemplo": "Ficou escarafunchando a gaveta até achar o dinheiro.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 95,
+    "nome": "Esse menino",
+    "definicao": "Vocativo utilizado em circunstâncias na qual não se conhece o nome de quem se chama.",
+    "exemplo": "Ô, esse menino, onde é a feira da sulanca?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 96,
+    "nome": "Estrebuchar",
+    "definicao": "Estertor; agito de quem pode vir a morrer; morrer.",
+    "exemplo": "O peixe ficou estrebuchando fora d'água.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 97,
+    "nome": "Empazinado",
+    "definicao": "Cheio; mais do que satisfeito.",
+    "exemplo": "Comi tanto feijão com farinha que tô empazinado.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 98,
+    "nome": "Empaxado",
+    "definicao": "Má digestão; ocorre com quem se empazinou de comida.",
+    "exemplo": "Tô empaxado com esse almoço de vó!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 99,
+    "nome": "Empiriquitar",
+    "definicao": "Arrumar-se em demasiado; comprar muitas roupas.",
+    "exemplo": "Foi pro shopping e se empiriquitou toda de novo.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 100,
+    "nome": "Engabelar",
+    "definicao": "Enganar, iludir.",
+    "exemplo": "Num vem me engabelar com essas conversa mole não!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 101,
+    "nome": "Engomar",
+    "definicao": "Passar à roupa com goma; passar à roupa com cuidado.",
+    "exemplo": "Mainha engomou minha camisa pra festa da igreja.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 102,
+    "nome": "Estribado",
+    "definicao": "Com recursos; com mufunfa, cheio da grana.",
+    "exemplo": "Aquele ali é estribado, vive viajando pro exterior.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 103,
+    "nome": "E eu seio?",
+    "definicao": "Expressão utilizada por quem não sabe.",
+    "exemplo": "E eu seio nada disso, rapá?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 104,
+    "nome": "Espinhela caída",
+    "definicao": "Diz-se de pessoa desanimada; desgostosa; deprimida.",
+    "exemplo": "Desde que terminou o namoro tá com a espinhela caída.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+{
+    "id": 105,
+    "nome": "Fiofó",
+    "definicao": "Referência ao cóccix ou ao ânus.",
+    "exemplo": "O menino caiu sentado e ralou o fiofó no chão.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 106,
+    "nome": "Folote",
+    "definicao": "O mesmo que folgado; afolosado; frouxo; largo.",
+    "exemplo": "Esse short tá tão folote que parece que vai cair.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 107,
+    "nome": "Forró",
+    "definicao": "Vem do inglês 'for all'; para todos.",
+    "exemplo": "Hoje tem forró lá no clube, vai ser arretado demais!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 108,
+    "nome": "Froxo",
+    "definicao": "Contração raivosa para frouxo; medroso; covarde.",
+    "exemplo": "Vai nada, aquele cabra é froxo que só!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 109,
+    "nome": "Fuxico",
+    "definicao": "Fofoca; intriga; frutica; mexerico.",
+    "exemplo": "Esse povo só vive de fuxico e falação da vida alheia.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 110,
+    "nome": "Fulero",
+    "definicao": "Fuleiro; sem valor; reles; insignificante.",
+    "exemplo": "Esse radinho fulero nem pega direito.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 112,
+    "nome": "Foi mal",
+    "definicao": "Pedido de desculpas; perdão.",
+    "exemplo": "Eita, derrubei tua água. Foi mal, visse?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 113,
+    "nome": "Fila duma égua",
+    "definicao": "Xingamento com referência caluniosa à genitora. Pode-se usar sem ofensas, como interjeição para a mula que empacou.",
+    "exemplo": "Fila duma égua! Essa bicicleta arriou de novo!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 114,
+    "nome": "Fiteiro",
+    "definicao": "Comércio informal de calçada; ponto de venda de confeito.",
+    "exemplo": "Passei no fiteiro e comprei um confeito e um refri.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 115,
+    "nome": "Flexero",
+    "definicao": "Mergulho de cabeça.",
+    "exemplo": "Ele subiu na pedra e deu logo um flexero na lagoa.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 116,
+    "nome": "Fubento",
+    "definicao": "Desbotado; gasto; muito usado.",
+    "exemplo": "Esse lençol tá fubento demais, parece pano de chão.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 117,
+    "nome": "Fazer o balão",
+    "definicao": "Dar a volta com o carro em um girador; arrodear.",
+    "exemplo": "Vai até a frente e faz o balão pra voltar.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 118,
+    "nome": "Filar",
+    "definicao": "Colar no colégio; olhar a resposta da prova dos outros.",
+    "exemplo": "Na hora da prova ele ficou tentando filar de mim.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+{
+    "id": 119,
+    "nome": "Galalau",
+    "definicao": "Homem de estatura elevada, capaz de tirar coco sem vara.",
+    "exemplo": "Olha o galalau ali tirando coco com a mão!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 120,
+    "nome": "Gastura",
+    "definicao": "Mãos frias, ardor estomacal, comichão, prurido.",
+    "exemplo": "Só de ver aquela cena me deu uma gastura!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 121,
+    "nome": "Gazear",
+    "definicao": "Faltar à aula ou ao trabalho; vadiar.",
+    "exemplo": "Gazeei aula pra ir jogar bola no campinho.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 122,
+    "nome": "Gibão",
+    "definicao": "Casaco de couro; usado por vaqueiros.",
+    "exemplo": "O vaqueiro se vestiu com o gibão pra entrar na mata.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 123,
+    "nome": "Gota-serena",
+    "definicao": "Interjeição de irritação, usada por quem está zangado.",
+    "exemplo": "Tá cá gota-serena!" Esse computador não quer funcionar!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 124,
+    "nome": "Gasguita",
+    "definicao": "Voz esganiçada.",
+    "exemplo": "A cantora era tão gasguita que doía no ouvido.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 125,
+    "nome": "Guisado",
+    "definicao": "Forma de cozinhar utilizando o tempero; refogado.",
+    "exemplo": "Mainha fez um guisado de carne que ficou uma delícia.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 126,
+    "nome": "Gabiru",
+    "definicao": "Rato grande.",
+    "exemplo": "Vi um gabiru do tamanho de um gato na rua de trás!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 127,
+    "nome": "Galego",
+    "definicao": "Pessoa loira ou alourada.",
+    "exemplo": "E aí, galego! Bora tomar uma?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 128,
+    "nome": "Gelo baiano",
+    "definicao": "Blocos brancos de concreto usado nas vias públicas.",
+    "exemplo": "Cuidado pra não bater o carro no gelo baiano!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 129,
+    "nome": "Girador",
+    "definicao": "No trânsito, local onde os veículos fazem a volta, rotatória.",
+    "exemplo": "Segue reto até o girador e pega a segunda saída.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 130,
+    "nome": "Graxa",
+    "definicao": "Molho de comida.",
+    "exemplo": "Esse frango tem que ter muita graxa pra ficar bom!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+{
+    "id": 131,
+    "nome": "Inhaca",
+    "definicao": "Cheiro forte; catinga de suor.",
+    "exemplo": "Sai desse quarto que tá uma inhaca insuportável!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 132,
+    "nome": "Invocado",
+    "definicao": "Pessoa com raiva; emburrado; cismado.",
+    "exemplo": "Ele tá invocado porque perdeu o jogo.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 133,
+    "nome": "Imburacar",
+    "definicao": "Entrar sem pedir permissão, sem ser convidado.",
+    "exemplo": "O menino imburacou na casa do vizinho atrás da bola.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 134,
+    "nome": "Incangado",
+    "definicao": "Em cima; junto; inseparável.",
+    "exemplo": "Desde que casaram vivem incangados pra todo lado.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 135,
+    "nome": "Ingembrado",
+    "definicao": "Torto; com a espinhela caída.",
+    "exemplo": "O banco ficou todo ingembrado depois do tombo.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 136,
+    "nome": "Içá",
+    "definicao": "Formiga com asas, que aparece após a chuva. Come-se frita na manteiga.",
+    "exemplo": "Hoje é dia de içá! Já botei manteiga na panela.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+ {
+    "id": 137,
+    "nome": "Jabá",
+    "definicao": "Carne de charque.",
+    "exemplo": "Feijão com jabá é de lascar de bom!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 138,
+    "nome": "Jagunço",
+    "definicao": "Segurança particular armado; guarda-costas; capanga.",
+    "exemplo": "O coronel andava com dois jagunços atrás dele.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 139,
+    "nome": "Jante",
+    "definicao": "Roda do carro.",
+    "exemplo": "Bati no meio-fio e entortei a jante do carro.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 140,
+    "nome": "Jerimum",
+    "definicao": "Abóbora.",
+    "exemplo": "Fiz um creme de jerimum que ficou um espetáculo.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+{
+    "id": 141,
+    "nome": "Laranja-cravo",
+    "definicao": "Mexerica ou bergamota.",
+    "exemplo": "Trouxe umas laranja-cravo lá do sítio, quer uma?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+ {
+    "id": 1410,
+    "nome": "Ligeiro",
+    "definicao": "Algo ou alguém com velocidade acelerada; veloz, célere.",
+    "exemplo": "Fulano passou aqui ligeiro cá peste",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 142,
+    "nome": "Liso",
+    "definicao": "Sem dinheiro.",
+    "exemplo": "Tô liso, só posso sair mês que vem.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 143,
+    "nome": "Lambança",
+    "definicao": "Arruaça; bagunça.",
+    "exemplo": "Os meninos fizeram uma lambança danada com tinta.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+ {
+    "id": 144,
+    "nome": "Malamanhado",
+    "definicao": "Sem vestimenta adequada; desarrumado; mal vestido.",
+    "exemplo": "Ele chegou malamanhado, parecia que tinha dormido na rua.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 145,
+    "nome": "Mangar",
+    "definicao": "Caçoar; rir dos outros.",
+    "exemplo": "Não mangue de mim, não.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 146,
+    "nome": "Má-querença",
+    "definicao": "Sem vontade ou com má vontade; sem desejo algum.",
+    "exemplo": "Ele foi na força do ódio, só má-querença mesmo.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 147,
+    "nome": "Marretar",
+    "definicao": "O mesmo que roubar.",
+    "exemplo": "Alguém marretou a bolsa da moça no ônibus.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 148,
+    "nome": "Maruim ou Muruim",
+    "definicao": "Mosquitinho.",
+    "exemplo": "Esses maruim tão comendo a gente vivo!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 149,
+    "nome": "Massa",
+    "definicao": "Coisa boa; de primeira.",
+    "exemplo": "Esse som novo de Zé Vaqueiro tá massa!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 150,
+    "nome": "Mainha",
+    "definicao": "Mamãezinha.",
+    "exemplo": "Mainha, cadê meu caderno?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 151,
+    "nome": "Miolo de pote",
+    "definicao": "Coisa sem importância.",
+    "exemplo": "Para de falar miolo de pote e me ajuda aqui!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 152,
+    "nome": "Munganga",
+    "definicao": "Repertório de movimentos; caretas; trejeitos.",
+    "exemplo": "\"Jim Carrey é muito mungangeiro.\"",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 153,
+    "nome": "Muriçoca",
+    "definicao": "Inseto semelhante ao pernilongo.",
+    "exemplo": "Passei o dia me coçando das picadas dessas muriçocas!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 154,
+    "nome": "Maldar",
+    "definicao": "Interpretar com maldade; utilizar o pior sentido.",
+    "exemplo": "Ela disse brincando e o povo já começou a maldar.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 155,
+    "nome": "Meiota",
+    "definicao": "Meia garrafa de cachaça.",
+    "exemplo": "Desceu uma meiota com dois copos só.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 156,
+    "nome": "Mundiça",
+    "definicao": "Povão; gente simples; plebe rude.",
+    "exemplo": "Aquela festa tava cheia de mundiça, mas foi boa.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 157,
+    "nome": "Mamulengo",
+    "definicao": "Fantoche; marionete; boneco de pano.",
+    "exemplo": "O teatro de mamulengo é tradição no interior.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 158,
+    "nome": "Miaeiro",
+    "definicao": "Cofrinho para moedas.",
+    "exemplo": "Botei as moedinhas no miaeiro pra economizar pro lanche.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 159,
+    "nome": "Macaxeira",
+    "definicao": "Variedade comestível de mandioca.",
+    "exemplo": "Café da manhã aqui é com macaxeira e queijo coalho.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 160,
+    "nome": "Matuto",
+    "definicao": "Caipira; pessoa da lida rural.",
+    "exemplo": "Seu João é matuto dos bons, mas entende de tudo da roça.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+ {
+    "id": 161,
+    "nome": "Não empurra um prego num mamão maduro",
+    "definicao": "Expressão em referência a quem não faz nada; exagero de preguiçoso.",
+    "exemplo": "Esse menino não empurra um prego num mamão maduro, só vive deitado!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 162,
+    "nome": "Num fresque não",
+    "definicao": "Expressão que solicita o fim da brincadeira ou o fim da manha.",
+    "exemplo": "Num fresque não, que hoje eu tô sem paciência!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 163,
+    "nome": "Nó cego",
+    "definicao": "Problema de difícil solução; sujeito enrolado; situação complicada.",
+    "exemplo": "Essa conta da prefeitura tá um nó cego pra resolver.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+ {
+    "id": 164,
+    "nome": "Oitão",
+    "definicao": "Os lados livres de um imóvel.",
+    "exemplo": "Ele arrodeou pelo oitão pra não passar pela frente.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 165,
+    "nome": "Ondonde",
+    "definicao": "Onde.",
+    "exemplo": "Ondonde tu tava que não viu o ônibus passar?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 1650,
+    "nome": "Ópaí ó",
+    "definicao": "É uma expressão popular da Bahia, especialmente de Salvador, que significa "Olha pra isso, olha!"",
+    "exemplo": "Ópaí, ó, que confusão é essa?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 166,
+    "nome": "Oxente!",
+    "definicao": "Expressão de surpresa; espanto.",
+    "exemplo": "Oxente! Já são cinco horas e tu ainda nem saiu?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 167,
+    "nome": "Oxi",
+    "definicao": "Contração de 'oxente!'. Possivelmente, vem de 'olha só minha gente!'.",
+    "exemplo": "Oxi, tu tá ficando doido é?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+{
+    "id": 168,
+    "nome": "Pisa",
+    "definicao": "Surra.",
+    "exemplo": "Se continuar nessa, vai levar uma pisa bem dada!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 169,
+    "nome": "Pantim",
+    "definicao": "Manha; resmungo.",
+    "exemplo": "Não sei se está doente ou é só pantim.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 170,
+    "nome": "Pitoco",
+    "definicao": "Um pequeno botão; algo pequeno.",
+    "exemplo": "O pitoco do ventilador quebrou e agora não liga.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 171,
+    "nome": "Peba",
+    "definicao": "Algo de má qualidade, que é ruim.",
+    "exemplo": "Esse celular é muito peba, não presta pra nada.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 172,
+    "nome": "Painho",
+    "definicao": "Papaizinho.",
+    "exemplo": "Painho, me empresta dinheiro pra comprar um lanche?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 173,
+    "nome": "Pedir penico",
+    "definicao": "Desistir.",
+    "exemplo": "Correu tanto que pediu penico no final da corrida.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 174,
+    "nome": "Pipoco",
+    "definicao": "Estouro; barulho grande.",
+    "exemplo": "Ouvi um pipoco e pensei que fosse tiro!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 175,
+    "nome": "Pixototinho",
+    "definicao": "Algo muito miúdo.",
+    "exemplo": "O cachorro é tão pixototinho que cabe numa bolsa.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 176,
+    "nome": "Possa ser",
+    "definicao": "Provavelmente.",
+    "exemplo": "Possa ser que chova hoje mais tarde.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 177,
+    "nome": "Presepeiro",
+    "definicao": "Espalhafatoso; escandaloso.",
+    "exemplo": "Tu é muito presepeiro, tudo contigo vira uma novela.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 178,
+    "nome": "Pai d'égua",
+    "definicao": "Muito legal; bacana; porreta.",
+    "exemplo": "Aquele show foi pai d'égua demais!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 179,
+    "nome": "Papel de enrolar prego",
+    "definicao": "Diz-se de pessoa grosseira. Pode-se dizer também lixa.",
+    "exemplo": "Fulano é tão bruto que parece papel de enrolar prego.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 180,
+    "nome": "Pé de pau",
+    "definicao": "Referência genérica para uma árvore.",
+    "exemplo": "\"Aquele pé de pau ali, ó, é bom pra descansar na sombra.\"",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 181,
+    "nome": "Pelejar",
+    "definicao": "Tentar até a exaustão.",
+    "exemplo": "Pelejei tanto pra arrumar emprego que até cansei.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 182,
+    "nome": "Penso",
+    "definicao": "Não é o verbo, é algo pendente; torto; troncho.",
+    "exemplo": "O portão ficou penso depois da batida.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 183,
+    "nome": "Pitéu",
+    "definicao": "Elogio à mulher jovem e bonita.",
+    "exemplo": "Aquela moça é um verdadeiro pitéu!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 184,
+    "nome": "Possa ser que sim, possa ser que não",
+    "definicao": "Algo sem certeza; talvez.",
+    "exemplo": "Possa ser que sim, possa ser que não. Só esperando pra ver.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 185,
+    "nome": "Patuscada",
+    "definicao": "Molecagem.",
+    "exemplo": "Aquela turma só vive de patuscada e brincadeira.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 186,
+    "nome": "Paia",
+    "definicao": "Algo de pouca qualidade ou mulher feia.",
+    "exemplo": "Aquele filme é muito paia, nem terminei de ver.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 187,
+    "nome": "Peguento",
+    "definicao": "Suado; suarento.",
+    "exemplo": "Voltei da rua todo peguento, esse calor tá demais.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 188,
+    "nome": "Peitica",
+    "definicao": "Pessoa insistente; renitente.",
+    "exemplo": "Esse menino é uma peitica, não para de pedir doce.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 189,
+    "nome": "Perronha",
+    "definicao": "Sujeito que joga mal o futebol.",
+    "exemplo": "Tira esse perronha do time, só faz raiva!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 190,
+    "nome": "Pixaim",
+    "definicao": "Cabelo crespo; enrolado.",
+    "exemplo": "Ela alisou o pixaim e ficou diferente demais.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 191,
+    "nome": "Pirangueiro",
+    "definicao": "Pão duro; amarrado; muquirana.",
+    "exemplo": "\"Era tão pirangueiro que guardava um escorpião no bolso\".",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+{
+    "id": 192,
+    "nome": "Quenga",
+    "definicao": "Profissional do sexo na terceira idade ou com serviços a preços promocionais.",
+    "exemplo": "Diz que ali naquela esquina só tem quenga velha vendendo amor barato.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 193,
+    "nome": "Quietei",
+    "definicao": "Fiquei quieto; acalmei.",
+    "exemplo": "Depois daquela briga, quietei e fui dormir.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 194,
+    "nome": "Que nem",
+    "definicao": "A igual a; tal qual.",
+    "exemplo": "Ele come que nem um boi.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+ {
+    "id": 195,
+    "nome": "Remoso",
+    "definicao": "Comida mais forte, que deve ser evitada quando a imunidade estiver baixa.",
+    "exemplo": "Bode não é remoso, mas camarão é. Não coma agora, não.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 196,
+    "nome": "Rapariga",
+    "definicao": "Em Portugal, é feminino de rapaz. No Nordeste, é profissional do sexo; utilizado em xingamentos.",
+    "exemplo": "Filá de uma rapariga! Tu quebrou meu copo novo!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 197,
+    "nome": "Remela",
+    "definicao": "Secreção ocular.",
+    "exemplo": "Acordei com os olhos cheios de remela.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 198,
+    "nome": "Rachão",
+    "definicao": "Jogo informal de futebol; pelada.",
+    "exemplo": "Sábado tem rachão com a galera no campinho.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 199,
+    "nome": "Rebolar no mato",
+    "definicao": "Jogar fora; atirar longe; avoar.",
+    "exemplo": "Se quebrar de novo, vou rebolar no mato!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 200,
+    "nome": "Raçudo",
+    "definicao": "Corajoso.",
+    "exemplo": "Esse menino é raçudo demais, não desiste fácil.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 201,
+    "nome": "Ronxa",
+    "definicao": "Hematoma.",
+    "exemplo": "Caiu da bicicleta e ficou com a perna cheia de ronxa.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 202,
+    "nome": "Relar",
+    "definicao": "Arranhar.",
+    "exemplo": "Cuidado pra não relar o carro na parede.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 203,
+    "nome": "Rela-buxo",
+    "definicao": "Festa onde se pode dançar; forró.",
+    "exemplo": "Hoje vai ter um rela-buxo lá na casa de Zé.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+ {
+    "id": 204,
+    "nome": "Sarrar",
+    "definicao": "Dar um amasso; namorar.",
+    "exemplo": "Vi tu sarrando com ela no cantinho do salão!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 205,
+    "nome": "Sofrente",
+    "definicao": "Pessoa sofredora.",
+    "exemplo": "Esse menino é tão sofrente que chora por qualquer coisa.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 206,
+    "nome": "Sustância",
+    "definicao": "Que tem substância; energia.",
+    "exemplo": "O caldo é bom, tem sustância e sustenta bem.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 207,
+    "nome": "Semvergonhagem",
+    "definicao": "Semvergonhice.",
+    "exemplo": "Isso que tu fez foi uma semvergonhagem sem tamanho.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 208,
+    "nome": "Sobejos",
+    "definicao": "Restos; sobras.",
+    "exemplo": "Comi só os sobejos do almoço e ainda fiquei satisfeito.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+{
+    "id": 209,
+    "nome": "Tamborete",
+    "definicao": "Pequeno banco; pode ser referência jocosa a pessoa de baixa estatura.",
+    "exemplo": "Batoré é mais baixo que um tamborete quebrado.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 210,
+    "nome": "Trancelim",
+    "definicao": "Pequeno cordão de ouro ou prata, adorno para o pescoço.",
+    "exemplo": "Mainha ganhou um trancelim de painho no aniversário.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 211,
+    "nome": "Troncho",
+    "definicao": "Pendente, penso, escangalhado.",
+    "exemplo": "Essa estante tá toda troncha, vai cair já já.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 212,
+    "nome": "Triscar",
+    "definicao": "Tocar; roçar de leve.",
+    "exemplo": "Não trisca em mim que eu tô suado!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 213,
+    "nome": "Trupicão",
+    "definicao": "Topada.",
+    "exemplo": "Dei um trupicão naquela pedra e quase caio.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 214,
+    "nome": "Tá com a bexiga lixa",
+    "definicao": "Interjeição, diz-se de que está com tudo.",
+    "exemplo": "Eita que hoje tu tá com a bexiga lixa, viu!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 215,
+    "nome": "Tá com a bubônica",
+    "definicao": "Interjeição semelhante a 'tá com a bexiga', só que mais forte.",
+    "exemplo": "Menino, tu tá com a bubônica hoje, danado!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 216,
+    "nome": "Tá com a moléstia",
+    "definicao": "Interjeição semelhante a 'tá com a bubônica', mas mais intensa.",
+    "exemplo": "Oxente, tu tá com a moléstia mesmo, viu?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 217,
+    "nome": "Tabacudo",
+    "definicao": "Abestalhado; abobado, abilolado.",
+    "exemplo": "Deixa de ser tabacudo, homem!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 218,
+    "nome": "Tampa",
+    "definicao": "Sujeito bom em algo.",
+    "exemplo": "Aquele menino é tampa na bola, joga demais.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 219,
+    "nome": "Tampa de crush",
+    "definicao": "Diz do cara que é 'muito tampa', pessoa rara.",
+    "exemplo": "Esse aí é tampa de crush, viu? Raro de encontrar.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 220,
+    "nome": "Torar",
+    "definicao": "Partir; quebrar.",
+    "exemplo": "Vai torar o pau aí mesmo? Cuidado!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 221,
+    "nome": "Torar um aço",
+    "definicao": "Sentir medo intenso; passar por situação de aperto.",
+    "exemplo": "Torou um aço quando viu a polícia passando.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 222,
+    "nome": "Traquino",
+    "definicao": "Menino agitado; bagunceiro.",
+    "exemplo": "Esse menino é tão traquino que não para um minuto quieto.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+{
+    "id": 223,
+    "nome": "Varapau",
+    "definicao": "Homem alto e magro.",
+    "exemplo": "Aquele varapau ali joga vôlei demais!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 224,
+    "nome": "Vexado",
+    "definicao": "Apressado.",
+    "exemplo": "Tava tão vexado que saiu com a camisa do avesso.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 225,
+    "nome": "Visse",
+    "definicao": "Interjeição de reforço; funciona como 'viu', 'compreendeu'.",
+    "exemplo": "Tô falando sério, visse?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 226,
+    "nome": "Vixe",
+    "definicao": "Exclamação de surpresa ou espanto, nova leitura de 'Virgem Maria Santíssima'.",
+    "exemplo": "Vixe, olha o tamanho da cobra!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 227,
+    "nome": "Vôte",
+    "definicao": "Exclamação de espanto.",
+    "exemplo": "Vôte! Que bicho feio da gota!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 228,
+    "nome": "Vou chegando",
+    "definicao": "Vou embora; fui.",
+    "exemplo": "Já é tarde, vou chegando antes que a chuva venha.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 229,
+    "nome": "Virado no mói de coentro",
+    "definicao": "Estar com tudo em cima, não dever nada a ninguém.",
+    "exemplo": "Esse cabra hoje tá virado no mói de coentro, se achando o tal.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+ {
+    "id": 230,
+    "nome": "Xi",
+    "definicao": "Referência de espanto, contração quase muda de ôxe.",
+    "exemplo": "Xi... lá vem confusão!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 231,
+    "nome": "Xexeiro",
+    "definicao": "Caloteiro; deve e não paga.",
+    "exemplo": "Fulano é xexeiro, pegou fiado e sumiu.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 232,
+    "nome": "Xexo",
+    "definicao": "Seixo; pedaço de pedra lisa; também referência para trambique; enganação.",
+    "exemplo": "Esse celular que ele vendeu é um xexo danado.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 233,
+    "nome": "Xibiu",
+    "definicao": "Órgão genital feminino.",
+    "exemplo": "Levou uma topada que caiu de bunda com o xibiu no chão.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 234,
+    "nome": "Xoxo",
+    "definicao": "Pequeno; franzino.",
+    "exemplo": "O menino nasceu meio xoxo, mas agora tá forte.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+ {
+    "id": 235,
+    "nome": "Zambeta",
+    "definicao": "Com pernas arqueadas.",
+    "exemplo": "Olha aquele zambeta passando, parece um laço!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 236,
+    "nome": "Zuretado",
+    "definicao": "Nervoso.",
+    "exemplo": "Ficou zuretado quando perdeu a chave do carro.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 237,
+    "nome": "Zarolho",
+    "definicao": "Estrábico; vesgo.",
+    "exemplo": "O zarolho tava olhando pra mim ou pro poste?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 238,
+    "nome": "Zoada",
+    "definicao": "Barulho; confusão.",
+    "exemplo": "Que zoada da moléstia é essa aí fora?",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 239,
+    "nome": "Zona",
+    "definicao": "Bagunça; confusão.",
+    "exemplo": "Esse quarto tá uma zona da gota!",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  },
+  {
+    "id": 240,
+    "nome": "Zumbido",
+    "definicao": "Ruído forte e estridente.",
+    "exemplo": "Tô ouvindo um zumbido estranho nesse ventilador.",
+    "curtidaSim": 0,
+    "curtidaNao": 0
+  }
+]
