@@ -1322,7 +1322,7 @@
   {
     "id": 1650,
     "nome": "Ópaí ó",
-    "definicao": "É uma expressão popular da Bahia, especialmente de Salvador, que significa "Olha pra isso, olha!"",
+    "definicao": "É uma expressão popular da Bahia, especialmente de Salvador, que significa, Olha pra isso, olha!",
     "exemplo": "Ópaí, ó, que confusão é essa?",
     "curtidaSim": 0,
     "curtidaNao": 0
@@ -1338,7 +1338,7 @@
   {
     "id": 167,
     "nome": "Oxi",
-    "definicao": "Contração de 'oxente!'. Possivelmente, vem de 'olha só minha gente!'.",
+    "definicao": "Contração de oxente!. Possivelmente, vem de olha só minha gente!",
     "exemplo": "Oxi, tu tá ficando doido é?",
     "curtidaSim": 0,
     "curtidaNao": 0
@@ -1443,7 +1443,7 @@
     "id": 180,
     "nome": "Pé de pau",
     "definicao": "Referência genérica para uma árvore.",
-    "exemplo": "\"Aquele pé de pau ali, ó, é bom pra descansar na sombra.\"",
+    "exemplo": "Aquele pé de pau ali, ó, é bom pra descansar na sombra.",
     "curtidaSim": 0,
     "curtidaNao": 0
   },
@@ -1531,7 +1531,7 @@
     "id": 191,
     "nome": "Pirangueiro",
     "definicao": "Pão duro; amarrado; muquirana.",
-    "exemplo": "\"Era tão pirangueiro que guardava um escorpião no bolso\".",
+    "exemplo": "Era tão pirangueiro que guardava um escorpião no bolso.",
     "curtidaSim": 0,
     "curtidaNao": 0
   },
